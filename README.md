@@ -46,10 +46,10 @@ Just FYI We use Vue.js in house on the frontend.
 
 ## Evaluation
 
-The application should be bootable by running `./scripts/run` and tests should be runnable with `./script/test`.  Setup should be a simple checkout and `dotnet restore`.
+The application should be bootable by running `./scripts/run` and tests should be runnable with `./scripts/test`.  Setup should be a simple checkout and `dotnet restore`.
 
 Please commit regularly with descriptive commit messages along the way.
 
-Share your git repo privately with 3000 krisanalfa gusmanwidodo on github (we dont want answers getting public)
+Share your git repo privately with [@3000](https://github.com/3000) [@krisanalfa](https://github.com/krisanalfa) [@gusmanwidodo](https://github.com/gusmanwidodo) on github (we dont want answers getting public)
 
 You are free to choose another technical stack other than dotnet core but keep in mind if we cant get it to run in under 5 minutes on our macs we probably arent going to get to review it :)
