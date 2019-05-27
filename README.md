@@ -50,6 +50,6 @@ The application should be bootable by running `./scripts/run` and tests should b
 
 Please commit regularly with descriptive commit messages along the way.
 
-Share your git repo privately with [@3000](https://github.com/3000) [@krisanalfa](https://github.com/krisanalfa) [@gusmanwidodo](https://github.com/gusmanwidodo) on github (we dont want answers getting public)
+Share your git repo privately with [@3000](https://github.com/3000) [@krisanalfa](https://github.com/krisanalfa) [@gusmanwidodo](https://github.com/gusmanwidodo) [@clayton-travlr](https://github.com/clayton-travlr) on github (we dont want answers getting public)
 
 You are free to choose another technical stack other than dotnet core but keep in mind if we cant get it to run in under 5 minutes on our macs we probably arent going to get to review it :)
